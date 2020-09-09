@@ -2,19 +2,13 @@
 A creative and dedicated entry-level software engineer who wishes to start their professional career in a fast-paced work environment which both challenges and develops their technical and interpersonal skills in real-world scenarios.
 ## Studying a Bachelor of Engineering in Software and Network Engineering (Honours)!
 - 📜 Third year university [student][course]!
--  🖥️ Experience in Java, Javascript, Python and Web Design and Android App Development
+- 🖥️ Experience in Java, Javascript, Python and Web Design and Android App Development
 - 👯 Knowledge in front-end web technologies and app development
 - 🏆 Dean's excellence award recipient
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Currently working on a React Portfolio
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />][youtube]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="My Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />][website] My Website
 
 <br />
 
@@ -43,9 +37,10 @@ A creative and dedicated entry-level software engineer who wishes to start their
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RyannYoung&show_icons=true&hide_border=true" />
+<img align="center" alt="Ryan Young's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RyannYoung&show_icons=true&hide_border=true" />
 
 [course]:https://www.canberra.edu.au/coursesandunits/course?course_cd=344JA
-[website]: https://codeSTACKr.com
+[website]: https://ryanjackyoung.com
